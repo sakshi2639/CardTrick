@@ -4,6 +4,7 @@ import java.util.Scanner;
 /**
  *
  * @author Sakshi Patel
+ * 09/02/2023
  */
 public class CardTrick {
 
